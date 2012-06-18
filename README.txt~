@@ -10,6 +10,21 @@ Since that time, these two themes have diverged widely, as new features have bee
 
 _____________________________________________________________________________
 
+Installation
+
+- Unpack the downloaded file and place the hfccbase folder in your Drupal installation under one of the following locations:
+
+    * sites/all/themes
+    * sites/all/custom/themes
+    * sites/default/themes
+    * sites/example.com/themes
+    * profiles/customprofile/themes
+
+- Log in as an administrator on your Drupal site and go to
+  Administer > Site building > Themes (admin/build/themes) and enable the cruise2012 theme.
+
+_____________________________________________________________________________
+
 
 Holy Grail Layout
 
